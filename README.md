@@ -3,6 +3,14 @@
 ### About Me
 I'm a current Software Engineering student at McGill University.
 
+Experience:
+* Integrations Intern @ Ericsson
+* Summer Technology Analyst @ Morgan Stanley
+* AI Intern @ Autodesk
+
+### Connect With Me
+[LinkedIn](https://www.linkedin.com/in/anniegouchee/)
+
 ### Programming Languages
 <img src="https://github.com/user-attachments/assets/b098a7b9-f8b3-4b77-a0a3-9ac2794423a9" width="30">
 <img src="https://github.com/user-attachments/assets/58f5eba9-b490-4776-b397-285b2de78b01" width="30">
